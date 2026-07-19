@@ -1,0 +1,702 @@
+[
+  {
+    "id": "027b72ee-d133-4642-aa32-78bbc08fff1c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Morgan Johnson - reviewed",
+    "timestamp": "2026-07-09T12:41:48.201Z"
+  },
+  {
+    "id": "38a30beb-7d2d-45df-9dd1-f88f22740eea",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Jade Cox - completed",
+    "timestamp": "2026-07-08T10:47:32.732Z"
+  },
+  {
+    "id": "ed0ac31d-e903-472b-a2c3-2280b3522e73",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Caleb Stewart - pending",
+    "timestamp": "2026-07-08T01:35:46.465Z"
+  },
+  {
+    "id": "55bd3bf5-5705-4b18-8a71-a651027b06d6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Noah Petrova - processed",
+    "timestamp": "2026-07-07T02:44:32.687Z"
+  },
+  {
+    "id": "1c0c2e3c-9249-4e2e-b140-1f60c7148eeb",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Priya Nguyen - approved",
+    "timestamp": "2026-07-05T12:25:18.815Z"
+  },
+  {
+    "id": "24eb043e-6655-43fe-b354-e5e15a62fed9",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "evidence logged",
+    "detail": "Scarlett Ward - approved",
+    "timestamp": "2026-07-04T23:30:23.738Z"
+  },
+  {
+    "id": "1f374c9a-c306-4f12-a3f8-3a7aa8db6139",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Ella Campbell - reviewed",
+    "timestamp": "2026-07-04T14:34:04.094Z"
+  },
+  {
+    "id": "0ec4a8b9-f26c-4219-bb20-e555281c9cef",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Liam Reed - reviewed",
+    "timestamp": "2026-07-03T03:36:42.438Z"
+  },
+  {
+    "id": "89bec55a-c833-4328-8f53-66e2c287ddc6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "evidence logged",
+    "detail": "Jordyn Price - processed",
+    "timestamp": "2026-07-02T19:08:39.691Z"
+  },
+  {
+    "id": "2465bcea-9470-49f5-a4de-ccc547ea088c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Hiroshi Tanaka - rejected",
+    "timestamp": "2026-07-01T21:50:08.204Z"
+  },
+  {
+    "id": "1eacd54e-a03d-4f22-ae1e-3dcd853d3f2e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Selene Patel - pending",
+    "timestamp": "2026-06-30T09:25:53.074Z"
+  },
+  {
+    "id": "0b8042c1-f4d5-4820-93e0-17e4e4f42d2d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Isaiah Baker - pending",
+    "timestamp": "2026-06-29T13:03:05.901Z"
+  },
+  {
+    "id": "80431c67-3bd1-4fe0-8ddb-d8b53804f3f0",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Harper Murphy - rejected",
+    "timestamp": "2026-06-29T04:24:32.589Z"
+  },
+  {
+    "id": "e2468834-f878-4b33-9648-644c6d3e6e4c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Logan Liu - completed",
+    "timestamp": "2026-06-28T02:12:58.061Z"
+  },
+  {
+    "id": "e8ca52be-e415-4383-9274-7000b44bcee8",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "evidence logged",
+    "detail": "Valentina Brown - failed",
+    "timestamp": "2026-06-27T09:49:51.271Z"
+  },
+  {
+    "id": "37b3665b-feb5-4b19-925b-037528622497",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "system check",
+    "detail": "Grace Robinson - failed",
+    "timestamp": "2026-06-25T15:19:39.248Z"
+  },
+  {
+    "id": "4f72b1c8-794f-48ea-9f8c-88b830efbd6e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Nala Evans - analyzed",
+    "timestamp": "2026-06-24T23:55:02.082Z"
+  },
+  {
+    "id": "56e157ee-e4b7-43e6-bfb5-14d57673e514",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Lucas James - analyzed",
+    "timestamp": "2026-06-24T18:01:28.800Z"
+  },
+  {
+    "id": "51a02876-1d62-4057-9cb0-5e8055c1930b",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Elena Zhang - completed",
+    "timestamp": "2026-06-22T22:04:28.789Z"
+  },
+  {
+    "id": "e60032af-3d99-4772-8b08-68b66013f800",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Dmitri Brooks - approved",
+    "timestamp": "2026-06-22T07:17:45.823Z"
+  },
+  {
+    "id": "4fb1f161-cc18-45d2-9180-0943faae2468",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Grayson Sato - completed",
+    "timestamp": "2026-06-21T17:08:07.164Z"
+  },
+  {
+    "id": "6960bee5-52f9-4ad0-bd95-5b72f58fd967",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Aiden Allen - reviewed",
+    "timestamp": "2026-06-20T13:20:20.870Z"
+  },
+  {
+    "id": "42d0d91e-fa30-40c5-832a-224f3200a50d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Penelope Bell - processed",
+    "timestamp": "2026-06-19T20:51:06.470Z"
+  },
+  {
+    "id": "c0fd0dea-2ac7-4735-9158-8fdcfaf691be",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Orion Taylor - processed",
+    "timestamp": "2026-06-18T17:33:05.098Z"
+  },
+  {
+    "id": "f00fe41f-8caa-40fa-bb2e-b85e1a17d2c7",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Parker Clark - pending",
+    "timestamp": "2026-06-18T01:34:03.847Z"
+  },
+  {
+    "id": "960fe585-37f7-4f55-9c9b-69b5312b3576",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Fatima Adams - pending",
+    "timestamp": "2026-06-17T04:37:20.319Z"
+  },
+  {
+    "id": "d25a83c5-f35f-4f34-b0ff-546098aec26d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "node added",
+    "detail": "Evelyn Peterson - reviewed",
+    "timestamp": "2026-06-16T08:11:45.610Z"
+  },
+  {
+    "id": "25161fce-6cef-44c9-9d9d-9d7ef662a27e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "node added",
+    "detail": "Aisha Nelson - rejected",
+    "timestamp": "2026-06-15T12:27:49.201Z"
+  },
+  {
+    "id": "e8cb06cc-678d-47e9-a65c-0475a78a74a6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Charles Edwards - pending",
+    "timestamp": "2026-06-14T20:46:14.922Z"
+  },
+  {
+    "id": "8fd8d43f-9e99-4533-99db-db39ac6a6d90",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Avery Jackson - pending",
+    "timestamp": "2026-06-13T19:18:49.806Z"
+  },
+  {
+    "id": "61e2cddf-4bc2-482e-a955-a5b82ab9f8fe",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Aurora Singh - queued",
+    "timestamp": "2026-06-13T00:41:55.741Z"
+  },
+  {
+    "id": "9b079b9c-6ee1-4376-a29f-b11f9b3da3c3",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Maria Okafor - flagged",
+    "timestamp": "2026-06-11T07:41:29.084Z"
+  },
+  {
+    "id": "f33b8a4f-c520-4e84-a892-114e8671858e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Ravi Morgan - analyzed",
+    "timestamp": "2026-06-11T05:16:24.878Z"
+  },
+  {
+    "id": "8dab9333-74a2-4198-be02-e950b6ec510e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Luke Rivera - pending",
+    "timestamp": "2026-06-09T20:49:30.759Z"
+  },
+  {
+    "id": "4fe4633c-4edc-4952-9a88-7b355933efc8",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Henry Garcia - analyzed",
+    "timestamp": "2026-06-09T05:00:01.226Z"
+  },
+  {
+    "id": "031601d3-db01-4818-acdd-c7362c319763",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Dante Popov - analyzed",
+    "timestamp": "2026-06-08T05:34:58.440Z"
+  },
+  {
+    "id": "b29f1bd1-cca6-4f86-b6eb-ab59462e59ec",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "node added",
+    "detail": "Ryan Cooper - pending",
+    "timestamp": "2026-06-07T10:31:23.023Z"
+  },
+  {
+    "id": "20f85f64-3183-46bf-a38a-5ed305fff6d5",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Olivia King - pending",
+    "timestamp": "2026-06-06T01:09:51.051Z"
+  },
+  {
+    "id": "ddd48b8f-6b30-4e60-b570-03731a385554",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Ethan Morris - flagged",
+    "timestamp": "2026-06-05T20:11:34.940Z"
+  },
+  {
+    "id": "bc8a69c1-8e57-4ccd-823c-1a7640d6f8a4",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Carter Ramirez - failed",
+    "timestamp": "2026-06-04T02:13:20.853Z"
+  },
+  {
+    "id": "4fe5bc4c-2b3f-4959-9f69-a4ad0271dd36",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Jaxon Okonkwo - completed",
+    "timestamp": "2026-06-03T02:10:12.618Z"
+  },
+  {
+    "id": "e419e16f-d07c-46c0-9303-c224885a8413",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Julian Sanders - rejected",
+    "timestamp": "2026-06-02T08:01:27.515Z"
+  },
+  {
+    "id": "543155b8-3bb6-493d-90d1-16de00e86dcf",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Chloe Torres - flagged",
+    "timestamp": "2026-06-01T17:12:13.831Z"
+  },
+  {
+    "id": "47d6c208-047f-41a4-835a-ba0ee09cde34",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "node added",
+    "detail": "Emma Al-Rashid - failed",
+    "timestamp": "2026-05-31T20:05:34.904Z"
+  },
+  {
+    "id": "e1653961-5945-4a58-a3da-8c7a267dc885",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Ellie Fernandez - flagged",
+    "timestamp": "2026-05-31T00:58:39.012Z"
+  },
+  {
+    "id": "992689a8-c51c-4ef8-ae59-69b44799afbd",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Dylan Wright - rejected",
+    "timestamp": "2026-05-29T16:22:14.812Z"
+  },
+  {
+    "id": "34eed141-7317-4215-a977-5bde2f292fa4",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "evidence logged",
+    "detail": "Savannah Wilson - flagged",
+    "timestamp": "2026-05-29T15:08:26.575Z"
+  },
+  {
+    "id": "2b748da9-fdaf-48a7-be13-b99e4fa6c190",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Nora Thompson - flagged",
+    "timestamp": "2026-05-28T00:31:48.652Z"
+  },
+  {
+    "id": "8d4332fa-9c8a-4515-b6cf-6d5c34147cfd",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Owen Phillips - processed",
+    "timestamp": "2026-05-26T22:15:17.701Z"
+  },
+  {
+    "id": "9ec48eb2-d9dd-4d15-8c98-846d6f036dbb",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Camila Moore - failed",
+    "timestamp": "2026-05-26T14:53:25.463Z"
+  },
+  {
+    "id": "64956def-5488-43cb-9e0a-13e96b4bce60",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "evidence logged",
+    "detail": "Mason Cook - pending",
+    "timestamp": "2026-05-25T02:55:24.518Z"
+  },
+  {
+    "id": "613c227b-e52a-4dbd-a4af-9833d32a5735",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Riley Roberts - reviewed",
+    "timestamp": "2026-05-24T16:53:04.748Z"
+  },
+  {
+    "id": "024e33cc-d9b5-4dd6-af30-35b208e4ecd1",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Ruby Green - pending",
+    "timestamp": "2026-05-23T17:32:27.359Z"
+  },
+  {
+    "id": "6d74175f-f6b4-4af1-a1b5-cdbd9e2ce0e1",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Lily Anderson - completed",
+    "timestamp": "2026-05-23T00:33:56.500Z"
+  },
+  {
+    "id": "220b589b-ac7d-453a-b83d-d6fe581736b4",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Wei Scott - completed",
+    "timestamp": "2026-05-21T19:07:34.048Z"
+  },
+  {
+    "id": "79122167-1868-42ec-b265-60ec0c8f15a1",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Jack Bailey - pending",
+    "timestamp": "2026-05-21T04:40:18.723Z"
+  },
+  {
+    "id": "3b9c59a2-500a-4a8a-b6ac-e5c544ca8815",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "evidence logged",
+    "detail": "Mia Watson - flagged",
+    "timestamp": "2026-05-20T06:48:22.032Z"
+  },
+  {
+    "id": "44e8aef2-09d4-4ba5-9da1-7578e4c712f4",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Carlos White - completed",
+    "timestamp": "2026-05-19T08:18:20.807Z"
+  },
+  {
+    "id": "9d4c881e-0859-47d3-828a-a0c86453b14e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Hannah Hill - failed",
+    "timestamp": "2026-05-18T21:09:28.917Z"
+  },
+  {
+    "id": "3046c75e-03a0-435f-a825-bb5cdb9c3cb2",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Stella Mitchell - analyzed",
+    "timestamp": "2026-05-17T13:44:13.046Z"
+  },
+  {
+    "id": "926e106e-1557-40f4-aff8-dbdf52476eeb",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Oliver Collins - reviewed",
+    "timestamp": "2026-05-16T21:58:34.804Z"
+  },
+  {
+    "id": "e43a58b9-e4a9-432d-8e0c-9c57d338eb9d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Layla Lewis - pending",
+    "timestamp": "2026-05-16T00:47:05.436Z"
+  },
+  {
+    "id": "89ef0b1f-c328-4876-a45d-16f1cdace20a",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Sofia Walker - pending",
+    "timestamp": "2026-05-15T00:49:34.500Z"
+  },
+  {
+    "id": "fbf9dd6d-e961-452e-a84f-993c35afea8f",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Josiah Miller - failed",
+    "timestamp": "2026-05-13T22:22:20.900Z"
+  },
+  {
+    "id": "3dc2fd67-ff7b-4bd6-98c9-c14a22eba4fe",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "system check",
+    "detail": "Yuki Martinez - flagged",
+    "timestamp": "2026-05-12T14:22:28.538Z"
+  },
+  {
+    "id": "162853ca-ae0a-4e38-b111-8928e89a97dc",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "node added",
+    "detail": "Elijah Ivanova - approved",
+    "timestamp": "2026-05-12T02:32:56.928Z"
+  },
+  {
+    "id": "da0b4bd0-30b6-43cd-841d-446b6656c4ae",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Thomas Young - approved",
+    "timestamp": "2026-05-10T18:39:00.758Z"
+  },
+  {
+    "id": "b83deb9e-b82e-4758-b577-6ea4a21b2c8b",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "system check",
+    "detail": "Sebastian Turner - analyzed",
+    "timestamp": "2026-05-10T01:54:00.663Z"
+  },
+  {
+    "id": "7217ef2b-5e9f-4d18-8d31-d142d4d83c56",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Kinsley Gray - rejected",
+    "timestamp": "2026-05-09T11:00:01.689Z"
+  },
+  {
+    "id": "40868a26-ee2d-4116-85ee-76f23f90791d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Mei Volkov - processed",
+    "timestamp": "2026-05-08T02:24:27.534Z"
+  },
+  {
+    "id": "455a1cd8-bf6d-481d-949e-53fb1950861e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Eliot Williams - approved",
+    "timestamp": "2026-05-07T16:17:00.261Z"
+  },
+  {
+    "id": "d5741b64-239e-40a6-b09d-5c8d1a0057da",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Olga Thomas - approved",
+    "timestamp": "2026-05-06T15:33:43.967Z"
+  },
+  {
+    "id": "b7053391-1c56-479b-ac9a-fd31b5566b1b",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Leo Harris - flagged",
+    "timestamp": "2026-05-05T23:11:01.165Z"
+  },
+  {
+    "id": "70668aa8-747e-4d38-9399-6758ae64f71d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "node added",
+    "detail": "Kennedy Hassan - processed",
+    "timestamp": "2026-05-05T03:33:48.890Z"
+  },
+  {
+    "id": "6d7039ea-6147-49b7-be38-95c032cc9e78",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Anthony Sharma - approved",
+    "timestamp": "2026-05-03T20:45:50.173Z"
+  },
+  {
+    "id": "ccdf9dab-3543-4067-ac5d-ab35e7137dd1",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "node added",
+    "detail": "Ivan Davis - reviewed",
+    "timestamp": "2026-05-03T13:00:18.840Z"
+  },
+  {
+    "id": "14a2c738-cd1c-4087-8047-a5a14e7c9d9c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Naomi Kumar - flagged",
+    "timestamp": "2026-05-02T01:49:29.507Z"
+  },
+  {
+    "id": "8c266ad6-8463-483d-9001-b1ffe5c3a71d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Skylar Johnson - analyzed",
+    "timestamp": "2026-05-01T09:48:28.756Z"
+  },
+  {
+    "id": "06cae502-7613-4536-b1a5-f05a19aa261b",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "evidence logged",
+    "detail": "Ava Cox - reviewed",
+    "timestamp": "2026-04-30T11:17:37.449Z"
+  },
+  {
+    "id": "3b4baaf4-853c-4ecc-b426-5504ae8125c6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "James Stewart - processed",
+    "timestamp": "2026-04-29T01:42:32.987Z"
+  },
+  {
+    "id": "d991f524-5737-4af4-a5c8-4893a67ac84a",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Kenji Petrova - failed",
+    "timestamp": "2026-04-28T10:50:26.591Z"
+  },
+  {
+    "id": "8a7f2ce7-9928-4cd4-9c3b-443a334457d8",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Gabriel Nguyen - reviewed",
+    "timestamp": "2026-04-28T00:13:36.578Z"
+  },
+  {
+    "id": "2d0c55b3-89ba-46ac-892f-bfe871ef3371",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Rebecca Ward - processed",
+    "timestamp": "2026-04-26T21:35:59.558Z"
+  },
+  {
+    "id": "a3568064-475d-4c5b-8e2a-5c615595a9ec",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Mateo Campbell - flagged",
+    "timestamp": "2026-04-25T09:26:19.603Z"
+  },
+  {
+    "id": "e68f90af-b29d-4c25-a090-4fc3b1943f3f",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Zoe Reed - reviewed",
+    "timestamp": "2026-04-25T01:24:09.353Z"
+  },
+  {
+    "id": "8149fa54-51ac-409e-9369-fa62423c5909",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Bella Price - reviewed",
+    "timestamp": "2026-04-23T22:26:51.396Z"
+  },
+  {
+    "id": "b6fbadde-21fc-47f8-999f-9e57562cc3a0",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Eli Tanaka - rejected",
+    "timestamp": "2026-04-22T16:53:46.624Z"
+  },
+  {
+    "id": "b720c68d-28e5-40b9-aeae-ada45f12000c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Lila Patel - processed",
+    "timestamp": "2026-04-21T19:45:07.491Z"
+  },
+  {
+    "id": "538ed48f-77c7-4b1e-9e5d-49a02518aa66",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Ahmed Baker - reviewed",
+    "timestamp": "2026-04-21T03:53:07.645Z"
+  },
+  {
+    "id": "0ee2efa8-1644-4a0b-bc90-545b5e156e22",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Nathan Murphy - analyzed",
+    "timestamp": "2026-04-20T21:39:38.699Z"
+  },
+  {
+    "id": "422a1338-5ab6-4307-8108-1a42239d270c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Amara Liu - completed",
+    "timestamp": "2026-04-19T22:20:17.034Z"
+  },
+  {
+    "id": "5de9c155-0c4e-4052-8026-0ac0d58bb827",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Kai Brown - reviewed",
+    "timestamp": "2026-04-18T20:03:22.096Z"
+  },
+  {
+    "id": "b608ba70-2d9a-40ba-9f73-093bab9f0017",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "data export",
+    "detail": "Aria Robinson - queued",
+    "timestamp": "2026-04-17T15:38:00.777Z"
+  },
+  {
+    "id": "9767054a-dc55-4154-bad4-1c2d4d7d4a76",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Zara Evans - queued",
+    "timestamp": "2026-04-17T02:16:42.874Z"
+  },
+  {
+    "id": "db112492-c4e4-466a-b886-019f4c485f8a",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "connection detected",
+    "detail": "Isaac James - analyzed",
+    "timestamp": "2026-04-16T06:02:10.087Z"
+  },
+  {
+    "id": "b5059400-5fb1-4764-a70a-46f8b32111ba",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case created",
+    "detail": "Wyatt Zhang - failed",
+    "timestamp": "2026-04-14T17:12:26.525Z"
+  },
+  {
+    "id": "51a6e23d-8cd5-4597-9444-218c4976a465",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "case updated",
+    "detail": "Aaron Brooks - flagged",
+    "timestamp": "2026-04-14T04:26:34.750Z"
+  },
+  {
+    "id": "25b8537a-9c74-4c63-90ae-01ea5f25fbc3",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "flag raised",
+    "detail": "Mohammed Sato - analyzed",
+    "timestamp": "2026-04-13T15:00:14.636Z"
+  },
+  {
+    "id": "2e23af73-8690-441e-a8bf-a5d84aef4c24",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "alert triggered",
+    "detail": "Levi Allen - analyzed",
+    "timestamp": "2026-04-12T16:32:14.516Z"
+  },
+  {
+    "id": "d092ffb3-d802-4980-b19a-b8c2d0935ab2",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "action": "report generated",
+    "detail": "Adrian Bell - rejected",
+    "timestamp": "2026-04-11T03:14:07.334Z"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "b57733db-85c1-4b14-b076-d3ed3149ce0e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "15b988cc-1e51-44dd-9dad-7113ca2d12d1",
+    "type": "system",
+    "description": "Morgan Johnson: Logged",
+    "timestamp": "2026-07-04T11:12:20.362Z"
+  },
+  {
+    "id": "3b07bf80-9876-4fef-9043-a7f6c72a8dd3",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "ab8db2c5-d7aa-4475-9f8c-c9a01ade55b0",
+    "type": "evidence",
+    "description": "Jade Cox: Archived",
+    "timestamp": "2026-07-04T04:46:32.144Z"
+  },
+  {
+    "id": "f46acc1d-c15e-4388-b1ab-31abbaeee6c7",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "b4aad144-ebbe-460d-8a15-a8b2241d6b4a",
+    "type": "system",
+    "description": "Caleb Stewart: Processed",
+    "timestamp": "2026-07-03T00:40:55.186Z"
+  },
+  {
+    "id": "d21b47cc-894f-4656-8345-082b1730db7e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "dd7ad225-8a0d-40e7-a3b2-cddd431e5ca9",
+    "type": "message",
+    "description": "Noah Petrova: Flagged",
+    "timestamp": "2026-07-02T22:27:39.808Z"
+  },
+  {
+    "id": "022724ec-972a-4d1d-aae2-5b7d44da9222",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "cc0c1216-a1e8-4e30-a027-ba11735c3e05",
+    "type": "system",
+    "description": "Priya Nguyen: Cross-referenced",
+    "timestamp": "2026-07-02T00:43:40.725Z"
+  },
+  {
+    "id": "9dc5e614-bd46-43ab-8fee-e2d0103da559",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "92055929-57c6-4a5b-a79a-610c0bf16791",
+    "type": "event",
+    "description": "Scarlett Ward: Updated",
+    "timestamp": "2026-06-30T18:08:44.260Z"
+  },
+  {
+    "id": "358f42f1-0d06-4407-b67b-f368abeb4169",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "88dd2098-5d75-449f-acad-eb28888ef80e",
+    "type": "message",
+    "description": "Ella Campbell: Flagged",
+    "timestamp": "2026-06-30T18:50:22.555Z"
+  },
+  {
+    "id": "702a04a1-ad9a-4b68-a121-a6dbecab7a5c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "6c507105-60fa-4b8b-8bd4-b0843a53aa4d",
+    "type": "evidence",
+    "description": "Liam Reed: Indexed",
+    "timestamp": "2026-06-29T17:31:10.159Z"
+  },
+  {
+    "id": "1802ccac-1f75-44d2-9696-c195080eec90",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "05f976ab-9b71-46a0-89be-5e68ac5db8bd",
+    "type": "event",
+    "description": "Jordyn Price: Indexed",
+    "timestamp": "2026-06-29T02:31:10.145Z"
+  },
+  {
+    "id": "c85d0e18-0137-4c95-9f19-c0e87f3d9500",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "9248ded2-25f0-4673-bb6a-3d0cda71e38c",
+    "type": "event",
+    "description": "Hiroshi Tanaka: Updated",
+    "timestamp": "2026-06-28T12:32:41.203Z"
+  },
+  {
+    "id": "3f7f644b-6c41-45f6-8288-ed8e6950f358",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "184faa38-b0ce-4510-ad63-2928125dcaa4",
+    "type": "event",
+    "description": "Selene Patel: Logged",
+    "timestamp": "2026-06-27T09:01:21.321Z"
+  },
+  {
+    "id": "ff3210f0-807f-4a79-b46a-b3bce6f78c10",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "a784cac5-ce29-4dec-b035-1e2e20e909e1",
+    "type": "event",
+    "description": "Isaiah Baker: Logged",
+    "timestamp": "2026-06-26T15:26:55.205Z"
+  },
+  {
+    "id": "abd4b0d9-dc94-46e1-8fb0-b1e52f0eabf3",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "f3d34b97-cdd9-4a99-9e27-a8ba62669c6d",
+    "type": "evidence",
+    "description": "Harper Murphy: Updated",
+    "timestamp": "2026-06-26T12:09:35.635Z"
+  },
+  {
+    "id": "48f1af82-84da-4c9e-817d-6a26b9cef494",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "5d6a8003-54fb-4985-88cd-535b025e5c9c",
+    "type": "evidence",
+    "description": "Logan Liu: Cross-referenced",
+    "timestamp": "2026-06-25T03:13:13.296Z"
+  },
+  {
+    "id": "54435d3b-d70f-4deb-b107-a21937968610",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "ab6b4147-a5fc-45a3-b94a-78120e5f1707",
+    "type": "evidence",
+    "description": "Valentina Brown: Logged",
+    "timestamp": "2026-06-24T19:44:40.345Z"
+  },
+  {
+    "id": "c7b9ac79-f06b-4699-a7f3-79f941fadb9c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "52b15882-d535-4b64-b743-866bd9d943b6",
+    "type": "system",
+    "description": "Grace Robinson: Updated",
+    "timestamp": "2026-06-23T22:33:06.536Z"
+  },
+  {
+    "id": "aea729a1-c676-4044-ba88-9dcaf33b07e6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "34ac4649-d156-4284-92aa-3fddd6018022",
+    "type": "system",
+    "description": "Nala Evans: Cross-referenced",
+    "timestamp": "2026-06-23T12:54:10.342Z"
+  },
+  {
+    "id": "ec60ecbe-1b00-4378-8801-848c21bc11a6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "93235a30-562d-4b5e-9c70-27e8e8b64564",
+    "type": "evidence",
+    "description": "Lucas James: Reviewed",
+    "timestamp": "2026-06-22T16:10:39.089Z"
+  },
+  {
+    "id": "653a13b1-003a-46fc-9660-00537e54e5b2",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "9bc5283f-c405-4b49-a24a-739be5ea4f9b",
+    "type": "system",
+    "description": "Elena Zhang: Archived",
+    "timestamp": "2026-06-22T01:39:59.345Z"
+  },
+  {
+    "id": "b310b375-e9e4-4048-95e5-4851c6996a7b",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "14cb9256-6ad7-40fd-b786-c76ea1799315",
+    "type": "system",
+    "description": "Dmitri Brooks: Reviewed",
+    "timestamp": "2026-06-21T00:30:35.015Z"
+  },
+  {
+    "id": "03b4cdb7-ba1f-493f-9588-d39abc82d35d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "36989f89-893b-4340-a00d-82ee6bdba8ab",
+    "type": "event",
+    "description": "Grayson Sato: Escalated",
+    "timestamp": "2026-06-20T19:23:38.849Z"
+  },
+  {
+    "id": "c1b7081f-264e-4378-8f3a-7404bc93caf9",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "c61e880a-b915-4aa1-8b2d-7e1469e81dc8",
+    "type": "system",
+    "description": "Aiden Allen: Cross-referenced",
+    "timestamp": "2026-06-19T15:29:31.662Z"
+  },
+  {
+    "id": "24afe61e-013d-44af-a2bf-5d86040c7b49",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "44dad460-79ea-4fa0-bcbe-58df099fd90a",
+    "type": "system",
+    "description": "Penelope Bell: Archived",
+    "timestamp": "2026-06-18T17:46:06.518Z"
+  },
+  {
+    "id": "447c5ac2-cc5b-40d9-a592-09d4c96fb641",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "298f31db-2ee5-45ef-a5df-09bf0ec4e00c",
+    "type": "event",
+    "description": "Orion Taylor: Cross-referenced",
+    "timestamp": "2026-06-18T01:52:29.961Z"
+  },
+  {
+    "id": "0963e8c3-7a75-4d4f-b0eb-c3391a9bc22c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "f16e3dae-d700-4777-b3ea-4241c0c386f3",
+    "type": "system",
+    "description": "Parker Clark: Indexed",
+    "timestamp": "2026-06-17T13:05:49.346Z"
+  },
+  {
+    "id": "94a86929-2000-41e9-b5cb-3196dea16236",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "3b9c0b96-abb2-4cca-b10d-665e35c56ca3",
+    "type": "message",
+    "description": "Fatima Adams: Reviewed",
+    "timestamp": "2026-06-16T19:46:59.278Z"
+  },
+  {
+    "id": "7d58579c-75d5-49ee-a444-fc365b2b74f5",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "c12b69f4-fe59-4de7-9091-054106a58f8c",
+    "type": "evidence",
+    "description": "Evelyn Peterson: Flagged",
+    "timestamp": "2026-06-16T04:14:17.308Z"
+  },
+  {
+    "id": "fda1a93e-e4ba-432f-9aa5-62dbffc27dc6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "4f928457-ae9b-4167-a2dd-4048cf20e6aa",
+    "type": "evidence",
+    "description": "Aisha Nelson: Verified",
+    "timestamp": "2026-06-15T19:24:38.957Z"
+  },
+  {
+    "id": "f3cfb7bc-600c-43a9-9480-22d81115db5e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "86b88129-4217-4445-a8e8-dd8dd40f8d1c",
+    "type": "event",
+    "description": "Charles Edwards: Updated",
+    "timestamp": "2026-06-14T18:26:37.871Z"
+  },
+  {
+    "id": "e50ae4b7-57f5-4a2f-b6ab-a5af12e8f824",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "f432453f-bf00-43a6-bd72-f7d96f08da52",
+    "type": "system",
+    "description": "Avery Jackson: Flagged",
+    "timestamp": "2026-06-13T23:52:16.794Z"
+  },
+  {
+    "id": "7e9f5f98-4585-4545-9ab5-a690f9de6ed5",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "044026f6-e8c0-44e2-a4c0-c6b6cb6e185d",
+    "type": "evidence",
+    "description": "Aurora Singh: Verified",
+    "timestamp": "2026-06-13T21:52:40.716Z"
+  },
+  {
+    "id": "31356786-1a4b-4d5e-878b-e361a17ed823",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "b81ed9d9-9821-445c-acc4-17b244389c06",
+    "type": "evidence",
+    "description": "Maria Okafor: Processed",
+    "timestamp": "2026-06-13T04:42:36.061Z"
+  },
+  {
+    "id": "914b4e34-606b-4f76-b622-6b0fe9bf599e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "638e8116-46fe-4bc2-a089-74120872ad65",
+    "type": "evidence",
+    "description": "Ravi Morgan: Archived",
+    "timestamp": "2026-06-12T08:12:34.977Z"
+  },
+  {
+    "id": "e980d750-2c50-49f4-b848-bdef8d3fedcb",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "bff0fce1-552b-4577-a8fa-0056fc665c1e",
+    "type": "system",
+    "description": "Luke Rivera: Reviewed",
+    "timestamp": "2026-06-11T00:21:49.790Z"
+  },
+  {
+    "id": "a00baeaa-cd13-40e5-bc5b-7adee06206a0",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "9899c792-5d84-4936-996a-38f26417025e",
+    "type": "event",
+    "description": "Henry Garcia: Cross-referenced",
+    "timestamp": "2026-06-10T10:58:08.804Z"
+  },
+  {
+    "id": "3599a767-15fd-45bb-be5c-6beb7a4253e9",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "7d0ae51d-7536-4a67-9758-6f3270b36403",
+    "type": "system",
+    "description": "Dante Popov: Reviewed",
+    "timestamp": "2026-06-09T16:53:53.352Z"
+  },
+  {
+    "id": "7fa88650-0ce9-439d-aedb-d00e514b8feb",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "5f6437bc-12a5-4330-ad70-330ae782d20d",
+    "type": "evidence",
+    "description": "Ryan Cooper: Indexed",
+    "timestamp": "2026-06-09T09:14:12.224Z"
+  },
+  {
+    "id": "1b093a26-d662-4804-a23d-90091bba4fe8",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "f91db9b7-4ba4-46f7-bcf7-84033fec9595",
+    "type": "message",
+    "description": "Olivia King: Flagged",
+    "timestamp": "2026-06-08T08:10:52.540Z"
+  },
+  {
+    "id": "30c9c2bc-8a59-414e-b647-3e767e8cb44b",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "fb2b803a-6ec5-42cf-9b64-012cffc95d8a",
+    "type": "event",
+    "description": "Ethan Morris: Reviewed",
+    "timestamp": "2026-06-07T16:50:42.272Z"
+  },
+  {
+    "id": "6be174bb-3c61-4a30-876c-acd518b7a485",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "a33b4bf1-5b17-4a7c-81d2-5eb16450253f",
+    "type": "message",
+    "description": "Carter Ramirez: Indexed",
+    "timestamp": "2026-06-07T13:21:13.449Z"
+  },
+  {
+    "id": "e6fd2118-0572-4fdc-b07f-0c3be62d7d6c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "d29f05e6-66e4-447d-bee4-9e51fdcea34c",
+    "type": "message",
+    "description": "Jaxon Okonkwo: Escalated",
+    "timestamp": "2026-06-06T06:52:39.366Z"
+  },
+  {
+    "id": "c9d2eaae-1345-4df3-b40d-c3367064109e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "149542b5-1f32-4b93-ae3c-fbf6431c46b0",
+    "type": "message",
+    "description": "Julian Sanders: Escalated",
+    "timestamp": "2026-06-06T02:41:22.659Z"
+  },
+  {
+    "id": "955647fa-c1cb-4ef0-bc8f-2f02223909d5",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "2c24b90e-ea11-405b-953a-478d905e540e",
+    "type": "message",
+    "description": "Chloe Torres: Reviewed",
+    "timestamp": "2026-06-05T14:40:07.015Z"
+  },
+  {
+    "id": "e398494f-6aca-4ec7-abac-ad4e129e443b",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "6d7cf393-f92b-484a-982c-ea01bc9754a5",
+    "type": "message",
+    "description": "Emma Al-Rashid: Archived",
+    "timestamp": "2026-06-04T15:07:44.941Z"
+  },
+  {
+    "id": "e049f4ac-324c-4da4-a099-414be2e5bdc3",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "6f71349a-7000-42f1-8865-9ef4e934f1e5",
+    "type": "system",
+    "description": "Ellie Fernandez: Cross-referenced",
+    "timestamp": "2026-06-04T02:10:19.324Z"
+  },
+  {
+    "id": "574edf95-385b-4d7a-be46-8cbfdbc04dd6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "3fc628a2-1946-46d6-b1e9-faf0f814250a",
+    "type": "message",
+    "description": "Dylan Wright: Cross-referenced",
+    "timestamp": "2026-06-03T06:33:48.618Z"
+  },
+  {
+    "id": "3363803e-5731-41b0-b7ed-317d1799a136",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "eb368cf1-dc55-47b3-8314-9feeb71b8e5f",
+    "type": "event",
+    "description": "Savannah Wilson: Verified",
+    "timestamp": "2026-06-02T06:45:36.744Z"
+  },
+  {
+    "id": "d103cdf4-51af-4e5b-add7-3781389886e4",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "dc97edf7-b7c5-4b80-9454-f916e11faf93",
+    "type": "evidence",
+    "description": "Nora Thompson: Verified",
+    "timestamp": "2026-06-01T18:22:16.630Z"
+  },
+  {
+    "id": "81f37b0a-8763-4af9-b4e5-99d2bad0567a",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "48daa17d-5acc-4c70-9996-cb0152ca4358",
+    "type": "message",
+    "description": "Owen Phillips: Updated",
+    "timestamp": "2026-06-01T08:48:34.521Z"
+  },
+  {
+    "id": "8304ff79-d13e-4806-a9b5-67b8e1e739ae",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "80890d78-825e-46d7-98a3-b43fe93b1c1d",
+    "type": "evidence",
+    "description": "Camila Moore: Cross-referenced",
+    "timestamp": "2026-05-31T10:32:14.614Z"
+  },
+  {
+    "id": "131a9f8e-5e29-42a5-8bbb-48839a5286b3",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "42eff13a-05f3-48ff-8d4d-9d1215bfa868",
+    "type": "evidence",
+    "description": "Mason Cook: Indexed",
+    "timestamp": "2026-05-30T13:59:55.508Z"
+  },
+  {
+    "id": "4fa58927-ca1a-48da-bf69-96fa404778de",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "d0918911-eae3-4177-a173-88fc82be633f",
+    "type": "system",
+    "description": "Riley Roberts: Flagged",
+    "timestamp": "2026-05-29T21:01:58.798Z"
+  },
+  {
+    "id": "33cfae79-ee87-4469-89fc-7aa0a48eaf45",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "90c5ce6d-001d-454f-bc5d-0f04859b5698",
+    "type": "system",
+    "description": "Ruby Green: Processed",
+    "timestamp": "2026-05-29T04:22:29.696Z"
+  },
+  {
+    "id": "86c65959-96b5-4e89-8041-a7373a6148cb",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "a369124b-a6e4-4b0c-88b6-c70f6d18c4c5",
+    "type": "evidence",
+    "description": "Lily Anderson: Logged",
+    "timestamp": "2026-05-28T10:50:24.185Z"
+  },
+  {
+    "id": "22003258-6b91-43d9-b72c-97d782e439c0",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "288ad497-1247-4172-8cf9-05c466f65495",
+    "type": "evidence",
+    "description": "Wei Scott: Verified",
+    "timestamp": "2026-05-28T05:34:38.415Z"
+  },
+  {
+    "id": "bd3a2d23-2d04-4e1d-93c9-7de5bc24bb7e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "08e7b1ee-8ab7-4f0f-af74-dd70084ac458",
+    "type": "system",
+    "description": "Jack Bailey: Archived",
+    "timestamp": "2026-05-27T06:44:57.481Z"
+  },
+  {
+    "id": "1bb56ef4-030a-4117-ba79-5b3a10233dbe",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "d3a0764e-6ab0-4315-be37-fe8a784c1c2f",
+    "type": "event",
+    "description": "Mia Watson: Processed",
+    "timestamp": "2026-05-26T01:49:13.086Z"
+  },
+  {
+    "id": "afb57235-7cbf-480f-b0cd-84447ba95a4f",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "2bf0c232-1d0c-43c2-a921-e829939babc6",
+    "type": "event",
+    "description": "Carlos White: Processed",
+    "timestamp": "2026-05-25T14:53:33.936Z"
+  },
+  {
+    "id": "5947789b-7387-451e-b513-6ac86ec6d4b0",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "0cce261f-5460-4fee-89b2-e13f83489ceb",
+    "type": "evidence",
+    "description": "Hannah Hill: Processed",
+    "timestamp": "2026-05-24T21:07:37.529Z"
+  },
+  {
+    "id": "5f9c5c87-8ea0-4322-b518-ddca3f74ee55",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "d9ee278e-a731-4553-81ef-4fb7735a8158",
+    "type": "system",
+    "description": "Stella Mitchell: Indexed",
+    "timestamp": "2026-05-24T00:31:52.257Z"
+  },
+  {
+    "id": "8efc0182-7c2b-4a15-9661-260f65aaa1bc",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "d883f9c9-57cb-477d-8b3a-212029302270",
+    "type": "event",
+    "description": "Oliver Collins: Indexed",
+    "timestamp": "2026-05-23T23:33:24.833Z"
+  },
+  {
+    "id": "53994d7c-66f4-45ec-a802-fcd2e8ba8db4",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "a4882986-e454-41d5-ab16-8202ba53d312",
+    "type": "system",
+    "description": "Layla Lewis: Escalated",
+    "timestamp": "2026-05-22T11:37:14.737Z"
+  },
+  {
+    "id": "5c825b40-cea5-49a2-9e84-4a5d660864e9",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "bd5b3845-5ec1-4dbc-ba3e-9b17d1273942",
+    "type": "system",
+    "description": "Sofia Walker: Archived",
+    "timestamp": "2026-05-22T02:32:43.083Z"
+  },
+  {
+    "id": "981f18c7-86f2-42c2-a873-c30020a10790",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "b5d8ff4c-0e71-4727-bab3-ca2d847b20bc",
+    "type": "event",
+    "description": "Josiah Miller: Updated",
+    "timestamp": "2026-05-21T20:55:54.325Z"
+  },
+  {
+    "id": "d8325542-0360-4d7c-a2c4-958bdb4b7b18",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "8bc587d5-2e99-4be8-8ec9-3dd00d6c3df2",
+    "type": "system",
+    "description": "Yuki Martinez: Indexed",
+    "timestamp": "2026-05-20T17:50:52.906Z"
+  },
+  {
+    "id": "12904ec1-2a33-435d-b18c-16a0d7af449d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "618ef276-f9cb-4567-9e24-4dbd94a1636e",
+    "type": "evidence",
+    "description": "Elijah Ivanova: Flagged",
+    "timestamp": "2026-05-20T01:36:55.162Z"
+  },
+  {
+    "id": "b9792cd2-359a-433a-888b-d8d7a258f10e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "295da2ef-f354-4a90-ad05-2539d508071f",
+    "type": "event",
+    "description": "Thomas Young: Archived",
+    "timestamp": "2026-05-19T19:36:02.073Z"
+  },
+  {
+    "id": "3d77f9cf-1ce4-4555-9455-6291eecc711c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "a92e8753-c47e-48f8-8549-5a9d9a5898bf",
+    "type": "system",
+    "description": "Sebastian Turner: Verified",
+    "timestamp": "2026-05-18T07:00:09.069Z"
+  },
+  {
+    "id": "3a731aba-252c-431e-aa0a-15d896fd3979",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "5cf8aeb4-7265-4952-b6e9-5112716b54b3",
+    "type": "event",
+    "description": "Kinsley Gray: Escalated",
+    "timestamp": "2026-05-17T20:37:58.775Z"
+  },
+  {
+    "id": "5cd1ba25-3c63-4eb4-b42f-52535d6d34e2",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "ddd26d46-968b-4ba6-b7fa-572107cd0413",
+    "type": "evidence",
+    "description": "Mei Volkov: Processed",
+    "timestamp": "2026-05-17T05:26:28.298Z"
+  },
+  {
+    "id": "bf29d2a4-868f-4f51-a560-50302a557376",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "86c01d27-3664-4ee6-a30d-a32f71baf01f",
+    "type": "system",
+    "description": "Eliot Williams: Indexed",
+    "timestamp": "2026-05-17T01:04:49.928Z"
+  },
+  {
+    "id": "63073fb3-24f3-469c-b3e1-0df0c559534d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "b0819d08-3a27-49a8-8507-18d4d096dc80",
+    "type": "evidence",
+    "description": "Olga Thomas: Escalated",
+    "timestamp": "2026-05-15T12:40:24.440Z"
+  },
+  {
+    "id": "8b7e1c3e-1f18-41b4-b438-cb209723e85d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "e69981d1-a00a-43cd-8a84-a31d9ae83d76",
+    "type": "system",
+    "description": "Leo Harris: Reviewed",
+    "timestamp": "2026-05-14T21:08:23.568Z"
+  },
+  {
+    "id": "1e308083-0665-4bb8-8ffe-608728828085",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "59b9a3e7-f9b7-41f9-b695-f8212d7a242c",
+    "type": "message",
+    "description": "Kennedy Hassan: Updated",
+    "timestamp": "2026-05-14T13:27:23.834Z"
+  },
+  {
+    "id": "8453e893-23b9-4697-b777-6877f8e82c68",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "048255bc-6de1-4ffb-b722-917d7ede2ab5",
+    "type": "message",
+    "description": "Anthony Sharma: Reviewed",
+    "timestamp": "2026-05-13T20:10:54.013Z"
+  },
+  {
+    "id": "5db0ab9b-09d7-4269-9d85-e70cae3ac045",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "24549225-bad2-470f-9b53-208e252d3762",
+    "type": "event",
+    "description": "Ivan Davis: Reviewed",
+    "timestamp": "2026-05-13T05:26:09.872Z"
+  },
+  {
+    "id": "eb07a7a4-0feb-4e81-8d49-5b9d2ef7d45d",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "c3d6bd88-138e-4e63-af8e-06f07fad5b41",
+    "type": "system",
+    "description": "Naomi Kumar: Reviewed",
+    "timestamp": "2026-05-12T20:03:14.949Z"
+  },
+  {
+    "id": "b99f8d54-a8e9-47c1-acfa-42e97ceb5036",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "e5284401-5f99-4f8e-a919-9f4a538bef1c",
+    "type": "evidence",
+    "description": "Skylar Johnson: Archived",
+    "timestamp": "2026-05-11T21:55:45.007Z"
+  },
+  {
+    "id": "d6268d13-ee58-4916-9324-41c549be15b3",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "dcaf2906-c3cb-40fc-a5e3-fa88e4d16f88",
+    "type": "evidence",
+    "description": "Ava Cox: Reviewed",
+    "timestamp": "2026-05-11T07:14:05.227Z"
+  },
+  {
+    "id": "4133a8ff-8bca-43c9-992b-0d465d5ba48f",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "e9e75c23-57f6-4f45-a5ac-fb7b4badc10f",
+    "type": "system",
+    "description": "James Stewart: Reviewed",
+    "timestamp": "2026-05-10T18:13:57.927Z"
+  },
+  {
+    "id": "4b43462d-9dbd-46d9-92b9-bda27a77a45e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "577944aa-20b1-44f6-a082-bd3968f1345b",
+    "type": "message",
+    "description": "Kenji Petrova: Updated",
+    "timestamp": "2026-05-09T06:22:17.434Z"
+  },
+  {
+    "id": "37c9186f-ca48-4d4f-83d0-c801aec3e30c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "c95c51b4-031a-4a5f-b07d-e5428122ca89",
+    "type": "evidence",
+    "description": "Gabriel Nguyen: Logged",
+    "timestamp": "2026-05-09T01:21:48.745Z"
+  },
+  {
+    "id": "c4a7a541-0cf2-4490-8fe7-fbf440510128",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "55d0ff94-c43b-4aef-9395-a4a3395c89d8",
+    "type": "system",
+    "description": "Rebecca Ward: Indexed",
+    "timestamp": "2026-05-07T18:49:12.138Z"
+  },
+  {
+    "id": "81362a0b-d308-4058-aeb0-d0e344039f97",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "84702afc-9125-43b0-9f81-adaa1cb9155d",
+    "type": "system",
+    "description": "Mateo Campbell: Processed",
+    "timestamp": "2026-05-07T19:56:40.753Z"
+  },
+  {
+    "id": "a43a697a-1cde-4426-9725-a6012f11aaf5",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "a103f653-a031-4ea6-a58e-c4740f68d0c1",
+    "type": "system",
+    "description": "Zoe Reed: Archived",
+    "timestamp": "2026-05-07T04:05:32.381Z"
+  },
+  {
+    "id": "8b916ef2-2d0c-402d-b5ef-58b96807a1d4",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "8932946e-0c97-4d4c-8d53-0ebc8e1cb53c",
+    "type": "evidence",
+    "description": "Bella Price: Verified",
+    "timestamp": "2026-05-05T17:15:29.597Z"
+  },
+  {
+    "id": "6fcf5816-5e32-4393-97dc-3080000f955a",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "4b922742-2c46-484a-8126-57fa2f254b0c",
+    "type": "message",
+    "description": "Eli Tanaka: Escalated",
+    "timestamp": "2026-05-05T20:59:25.774Z"
+  },
+  {
+    "id": "7cea7509-a047-4aa7-b2a5-6eb88ea8930e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "4d70b9a3-7b3a-47e3-b4c1-434e62673331",
+    "type": "evidence",
+    "description": "Lila Patel: Flagged",
+    "timestamp": "2026-05-04T19:41:47.376Z"
+  },
+  {
+    "id": "d14ff61d-634b-4ff9-9df2-461f85959358",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "11f273d4-28b8-462e-ad5d-d6180cf4f01c",
+    "type": "message",
+    "description": "Ahmed Baker: Logged",
+    "timestamp": "2026-05-03T20:33:30.224Z"
+  },
+  {
+    "id": "176cd4a2-33c2-421f-83a9-6077434fd25f",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "f7c453e9-2ba5-41c7-96c6-bd6c171ebbcf",
+    "type": "message",
+    "description": "Nathan Murphy: Processed",
+    "timestamp": "2026-05-03T09:41:50.336Z"
+  },
+  {
+    "id": "97667fcd-b01c-4b70-9f74-0ac645796b72",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "b45cc9b5-86a9-4266-bac3-ba74ad8f9177",
+    "type": "system",
+    "description": "Amara Liu: Verified",
+    "timestamp": "2026-05-02T05:32:49.292Z"
+  },
+  {
+    "id": "41e6d29c-103b-4688-8a95-3d73642294d6",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "7cffec80-2543-472b-bf0b-c4af944346c1",
+    "type": "message",
+    "description": "Kai Brown: Verified",
+    "timestamp": "2026-05-01T17:05:42.158Z"
+  },
+  {
+    "id": "ea0825bc-ca5f-4062-8756-2d965b053f73",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "8d631c87-8ac9-4016-b5d9-29294ec6106f",
+    "type": "message",
+    "description": "Aria Robinson: Indexed",
+    "timestamp": "2026-05-01T12:09:43.891Z"
+  },
+  {
+    "id": "cfde6ef6-1574-42aa-96ef-58a6dc7cef22",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "c8b67e1f-c349-4562-a093-eec3201baeb8",
+    "type": "evidence",
+    "description": "Zara Evans: Indexed",
+    "timestamp": "2026-04-30T23:32:19.508Z"
+  },
+  {
+    "id": "16570001-03ef-4c38-9d04-c7f58289e453",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "d7a1af02-5bc8-461a-afb9-7df11cbe04d1",
+    "type": "evidence",
+    "description": "Isaac James: Cross-referenced",
+    "timestamp": "2026-04-29T16:49:02.875Z"
+  },
+  {
+    "id": "35089403-c8c6-4ce6-9abc-d93877ca80d5",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "5b9bcc07-dbad-45c1-85e6-65cfe89f5112",
+    "type": "system",
+    "description": "Wyatt Zhang: Indexed",
+    "timestamp": "2026-04-28T20:04:37.518Z"
+  },
+  {
+    "id": "02a0a184-5692-43bf-803f-4efe519ea7b0",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "1a03b09c-a874-48ec-bffb-8c584a822d39",
+    "type": "message",
+    "description": "Aaron Brooks: Processed",
+    "timestamp": "2026-04-28T07:27:28.000Z"
+  },
+  {
+    "id": "e4ba4b34-9c1f-4b4e-b6f0-75d303ea1b5a",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "c538feae-cf34-4fe6-830e-7caa6bdcd80f",
+    "type": "message",
+    "description": "Mohammed Sato: Indexed",
+    "timestamp": "2026-04-27T18:41:57.148Z"
+  },
+  {
+    "id": "9aca8b04-64e6-4540-803b-44760d1ce169",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "f15a3a5e-63d9-4e8b-97a0-2e44ab1bea40",
+    "type": "message",
+    "description": "Levi Allen: Flagged",
+    "timestamp": "2026-04-26T23:05:37.796Z"
+  },
+  {
+    "id": "cefecb2c-e430-437a-82f7-61cb6f2ac922",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "ea783f2c-4b66-487b-a0a2-2ad0d5c18bf9",
+    "type": "evidence",
+    "description": "Adrian Bell: Indexed",
+    "timestamp": "2026-04-26T00:40:30.317Z"
+  },
+  {
+    "id": "bd49fa65-cb3e-4881-9d54-c99cab2e3b9b",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "8b8408c8-52fd-4d07-853d-24822f0fe326",
+    "type": "message",
+    "description": "Madison Taylor: Reviewed",
+    "timestamp": "2026-04-25T05:29:59.347Z"
+  },
+  {
+    "id": "a5b61aba-cbf8-4024-a1dc-1dc98ac28ba8",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "b4215137-bbcd-44d9-b6b8-127f946aebed",
+    "type": "event",
+    "description": "Andrew Clark: Reviewed",
+    "timestamp": "2026-04-24T10:49:02.594Z"
+  },
+  {
+    "id": "b62da43f-bb57-4b39-8bca-d47e6ae08c34",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "de29cbfc-03af-41bc-87e0-4a00ebe342c2",
+    "type": "evidence",
+    "description": "Hazel Adams: Indexed",
+    "timestamp": "2026-04-24T14:44:20.399Z"
+  },
+  {
+    "id": "bf55b7df-e0ec-40a3-9343-93dabf6c6e87",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "dc7667a8-d6dd-4952-88d4-6b67fdaf78c6",
+    "type": "message",
+    "description": "Blake Peterson: Updated",
+    "timestamp": "2026-04-23T05:45:56.699Z"
+  },
+  {
+    "id": "e5036028-b2e6-48c9-b3a2-00a36601210e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "1e80f3de-b200-4ef1-8299-d831e89b7a22",
+    "type": "evidence",
+    "description": "Morgan Nelson: Flagged",
+    "timestamp": "2026-04-22T12:53:33.097Z"
+  },
+  {
+    "id": "8fa8399b-824b-4822-8bc7-4fd9fdad2b84",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "11165d59-fd85-4239-8b40-a9ff61325c4a",
+    "type": "system",
+    "description": "Jade Edwards: Indexed",
+    "timestamp": "2026-04-22T00:27:57.066Z"
+  },
+  {
+    "id": "2cd90f05-b76f-4a27-aa27-b6d20fe55e53",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "8933a9e1-5338-40a5-8254-a86cd1c76858",
+    "type": "system",
+    "description": "Caleb Jackson: Processed",
+    "timestamp": "2026-04-21T09:25:09.224Z"
+  },
+  {
+    "id": "b7abd6e3-0dc1-45ba-a7f3-6d5f63ef0a6c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "99434e5b-9750-4944-b69c-919b48f5f493",
+    "type": "evidence",
+    "description": "Noah Singh: Verified",
+    "timestamp": "2026-04-20T08:46:14.896Z"
+  },
+  {
+    "id": "9e4e52ee-541f-4806-931d-f2149f118702",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "a808b5f5-4289-4d7f-86fe-b790bc4eb7d0",
+    "type": "system",
+    "description": "Priya Okafor: Verified",
+    "timestamp": "2026-04-20T04:47:00.623Z"
+  },
+  {
+    "id": "4bacdf26-f7cd-4a50-9826-66c3480a657a",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "1e2f317f-5127-49a3-aeba-edb2252162e3",
+    "type": "system",
+    "description": "Scarlett Morgan: Reviewed",
+    "timestamp": "2026-04-19T02:13:32.371Z"
+  },
+  {
+    "id": "12fcce0a-20af-44f1-b9b5-19892aa8b3e8",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "2fb10b17-e18c-4899-b7cf-53ce42f1d2b5",
+    "type": "system",
+    "description": "Ella Rivera: Updated",
+    "timestamp": "2026-04-18T23:57:33.386Z"
+  },
+  {
+    "id": "729aebf4-5558-4530-b02f-a02b26543fc7",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "89999fd8-1be6-4f66-98b3-9a95eef0d7f5",
+    "type": "system",
+    "description": "Liam Garcia: Flagged",
+    "timestamp": "2026-04-17T22:54:37.607Z"
+  },
+  {
+    "id": "8dd1cfca-70a4-4359-bd09-10cadc330042",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "33624ffc-597b-4c47-a68a-2d5aa705dc63",
+    "type": "event",
+    "description": "Jordyn Popov: Updated",
+    "timestamp": "2026-04-16T17:21:30.804Z"
+  },
+  {
+    "id": "5c21cb4b-4bd6-4374-9ff3-437318e3d6c5",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "ec2711f2-f6df-49c8-ad11-9ffb9ec8cac2",
+    "type": "evidence",
+    "description": "Hiroshi Cooper: Logged",
+    "timestamp": "2026-04-16T04:20:45.323Z"
+  },
+  {
+    "id": "a30e2da3-bf9f-41ba-8a5f-eb1aa0a0899c",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "07c2772c-79c9-4710-aacb-c75a117dc495",
+    "type": "evidence",
+    "description": "Selene King: Processed",
+    "timestamp": "2026-04-15T15:22:23.039Z"
+  },
+  {
+    "id": "c6af8d55-5ccb-4028-a565-61636c01f1fc",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "abb2bf92-6c31-4254-936b-d84520c8f148",
+    "type": "event",
+    "description": "Isaiah Morris: Indexed",
+    "timestamp": "2026-04-14T16:59:33.843Z"
+  },
+  {
+    "id": "238bc7b1-0868-4388-ae4a-3cc315dba01e",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "5f7e4f65-91a0-4fc6-8b41-e3c688e66eaf",
+    "type": "evidence",
+    "description": "Harper Ramirez: Archived",
+    "timestamp": "2026-04-14T01:49:19.146Z"
+  },
+  {
+    "id": "a966db4f-2ad2-4cc1-a6e6-e285da615872",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "92b2ec66-2db7-43e7-bfe8-bc90782b452d",
+    "type": "evidence",
+    "description": "Logan Okonkwo: Cross-referenced",
+    "timestamp": "2026-04-13T23:26:05.995Z"
+  },
+  {
+    "id": "f79863c9-30ca-4477-9e86-b2a0201ab1dc",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "3a40a40d-9108-488d-8b2c-ebb8b81955ed",
+    "type": "evidence",
+    "description": "Valentina Sanders: Escalated",
+    "timestamp": "2026-04-13T06:09:35.977Z"
+  },
+  {
+    "id": "46069cf8-fe21-4d03-89a1-188f64b48cc4",
+    "case_id": "0cd24feb-8354-4561-b915-837747d46af0",
+    "node_id": "03163b90-1df4-4b69-b689-4768f72056f8",
+    "type": "event",
+    "description": "Grace Torres: Flagged",
+    "timestamp": "2026-04-11T20:08:25.474Z"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "investigation-graph",
+  "version": "1.0.0",
+  "description": "Digital Investigation Graph System - Visual relationship mapping and timeline tracing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
